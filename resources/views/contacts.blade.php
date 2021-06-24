@@ -1,0 +1,5 @@
+@include('layouts.header')
+@include('layouts.sidebar')
+@include('layouts.content')
+@yield ('halaman_contact')
+@include('layouts.footer')

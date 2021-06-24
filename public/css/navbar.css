@@ -1,0 +1,20 @@
+.hello{
+    margin: 10px;
+    margin-top: 10px;
+    background-color: #FFF;
+    border: 3px solid;
+}
+.nav{
+    background-color: #FFF;
+    margin-top: 10px;
+    padding: 5px;
+    margin-right: 0.5px;
+    border: 3px solid
+
+}
+.form1{
+    margin: 10px;
+    background-color: #FFF;
+    border: 3px solid;
+    padding: 10px;
+}
